@@ -26,11 +26,7 @@ pip install -r requirements.txt
 Run the wallet application:
 
 ```bash
-# Legacy version (single file)
 python phantom_wallet.py
-
-# New modular version (recommended)
-python phantom_wallet_v2.py
 ```
 
 ### Quick Start
